@@ -209,10 +209,12 @@ Always happy to connect with fellow cybersecurity learners, professionals, and m
 </div>
 
 
+
 <div align="center">
 
-![Purple Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A855F7&height=120&section=footer)
+![Purple Footer](https://capsule-render.vercel.app/api?type=venom&color=0:2E1065,50:6D28D9,100:A855F7&height=120&section=footer)
 
 </div>
+
 
 
