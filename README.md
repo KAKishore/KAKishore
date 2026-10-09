@@ -186,6 +186,7 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 ☁️ Azure & Cloud Security · 🛡️ SOC Detection Engineering · 🐍 Python for Security Automation · 🔎 Threat Hunting
 
 
+
 ## 🤝 Community Involvement
 
 ![WiCyS Member](https://img.shields.io/badge/WiCyS%20Member-008F70?style=for-the-badge)
@@ -193,6 +194,19 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 
 
 
+## 🤝 Let's Connect
+
+Always happy to connect with fellow cybersecurity learners, professionals, and mentors. I enjoy exchanging ideas, sharing experiences, learning from others, and exploring opportunities to grow in cybersecurity.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishore.kamita@gmail.com)
+
+
+*🌱 Keep learning. Stay curious. Grow together.*
+
+</div>
 
 
 
