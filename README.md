@@ -176,4 +176,5 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 
 | 🛡️ SANS Core NetWars | 🔐 WiCyS × SANS STS Tier 1 & 2 | 🔥 WiCyS × FLARE Sisterhood | 🔎 Tenable |
 |:---:|:---:|:---:|:---:|
-| ⚡ SkillBit | 🏁 National Cyber League (NCL) | 🛡️ SentinelOne | |
+| ⚡ SkillBit | 🏁 National Cyber League (NCL) | 🛡️ SentinelOne | 🚀 More Challenges Ahead |
+
