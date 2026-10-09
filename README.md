@@ -124,22 +124,24 @@ Sharing technical approaches, tools, investigation findings, and lessons learned
 
 Performing hands-on attack simulations in a virtual SOC environment to explore security monitoring, log collection, threat detection, and incident investigation.
 
+
+
 ```mermaid
 flowchart LR
     K("⚔️ Kali Linux<br/>Attacker")
     P("🌐 pfSense<br/>Firewall")
 
     subgraph WIN["💻 WINDOWS TARGET VM"]
-        direction LR
+        direction TB
         S("Sysmon<br/>Event Telemetry")
-        U("Splunk Universal<br/>Forwarder")
+        U("Splunk Universal Forwarder")
         S --> U
     end
 
     subgraph SOC["🛡️ SOC MONITORING"]
         direction TB
-        SI("📊 Splunk SIEM<br/>Log Analysis")
         Z("Wazuh<br/>Endpoint Monitoring")
+        SI("📊 Splunk SIEM<br/>Log Analysis")
     end
 
     I("🔎 Threat Detection<br/>& Investigation")
@@ -166,4 +168,3 @@ flowchart LR
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
     style SOC fill:#292929,stroke:#444444,color:#FFFFFF
 ```
-
