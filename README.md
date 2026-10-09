@@ -206,14 +206,9 @@ Always happy to connect with fellow cybersecurity learners, professionals, and m
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>🟢 OPEN TO |</strong></td>
-      <td>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=1000&color=10B981&vCenter=true&width=410&lines=Cybersecurity+Internships;Entry-Level+SOC+Analyst+Roles;Junior+Security+Analyst+Roles;Incident+Response+Opportunities;Cloud+Security+Internships;Cybersecurity+Volunteering" alt="Career opportunities" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=OPEN+TO+%7C+CYBERSECURITY+INTERNSHIPS;OPEN+TO+%7C+ENTRY-LEVEL+SOC+ANALYST+ROLES;OPEN+TO+%7C+JUNIOR+SECURITY+ANALYST+ROLES;OPEN+TO+%7C+INCIDENT+RESPONSE+OPPORTUNITIES;OPEN+TO+%7C+CLOUD+SECURITY+INTERNSHIPS;OPEN+TO+%7C+CYBERSECURITY+VOLUNTEERING" alt="Open to cybersecurity internships, entry-level roles, and volunteering" />
+
 </div>
 
 
