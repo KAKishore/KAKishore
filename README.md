@@ -168,3 +168,12 @@ flowchart LR
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
     style SOC fill:#292929,stroke:#444444,color:#FFFFFF
 ```
+
+
+## 🏆 CTFs & Cybersecurity Challenges
+
+Strengthening cybersecurity skills through CTFs, hands-on challenges, and practical problem-solving.
+
+| 🛡️ SANS Core NetWars | 🔐 WiCyS × SANS STS Tier 1 & 2 | 🔥 WiCyS × FLARE Sisterhood | 🔎 Tenable |
+|:---:|:---:|:---:|:---:|
+| ⚡ SkillBit | 🏁 National Cyber League (NCL) | 🛡️ SentinelOne | |
