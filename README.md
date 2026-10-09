@@ -127,42 +127,44 @@ Performing hands-on attack simulations in a virtual SOC environment to explore s
 
 ```mermaid
 flowchart TD
-    K["⚔️ Kali Linux VM - Attacker"]
-    P["🌐 pfSense - Firewall"]
+    K("⚔️ Kali Linux VM<br/>Attacker")
+    P("🌐 pfSense<br/>Firewall")
 
     subgraph WIN["💻 WINDOWS TARGET VM"]
         direction TB
-        S["Sysmon - Event Telemetry"]
-        U["Splunk Universal Forwarder"]
+        S("Sysmon<br/>Event Telemetry")
+        U("Splunk Universal Forwarder")
         S --> U
     end
 
     subgraph SOC["🛡️ SOC MONITORING"]
         direction LR
-        SI["📊 Splunk SIEM Server"]
-        Z["Wazuh - Endpoint Monitoring"]
+        SI("📊 Splunk SIEM Server<br/>Log Collection & Analysis")
+        Z("Wazuh<br/>Endpoint Monitoring")
     end
 
-    I["🔎 Threat Detection & Investigation"]
+    I("🔎 Threat Detection &<br/>Investigation")
 
     K -->|"Simulated attack traffic"| P
     P --> S
-    U -->|"Forward Windows and Sysmon logs"| SI
+    U -->|"Forward Windows & Sysmon logs"| SI
     S -.->|"Endpoint monitoring"| Z
     SI --> I
     Z --> I
 
-    classDef attacker fill:#FCE7E7,stroke:#C75B5B,color:#812626
-    classDef network fill:#FFF1D9,stroke:#C58A2E,color:#805214
-    classDef endpoint fill:#E4EFFC,stroke:#477FC0,color:#244B7B
-    classDef monitoring fill:#EEE5FA,stroke:#8961BC,color:#553482
-    classDef investigation fill:#DFF5E9,stroke:#39956E,color:#205F46
+    classDef attacker fill:#18181B,stroke:#C65B65,color:#FFFFFF,stroke-width:1px
+    classDef firewall fill:#111820,stroke:#D59A32,color:#FFFFFF,stroke-width:1px
+    classDef endpoint fill:#151A22,stroke:#438BC6,color:#FFFFFF,stroke-width:1px
+    classDef monitoring fill:#17151E,stroke:#9B6BC7,color:#FFFFFF,stroke-width:1px
+    classDef investigation fill:#101B19,stroke:#3CA783,color:#FFFFFF,stroke-width:1px
 
     class K attacker
-    class P network
+    class P firewall
     class S,U endpoint
     class SI,Z monitoring
     class I investigation
-```
 
+    style WIN fill:#292929,stroke:#444444,color:#FFFFFF
+    style SOC fill:#292929,stroke:#444444,color:#FFFFFF
+```
 
