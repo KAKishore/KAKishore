@@ -3,9 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:463080,100:8B5CF6&height=240&section=header&text=Kumari%20Amita%20Kishore&fontSize=39&fontColor=FFFFFF&fontAlignY=34&desc=Blue%20Team%20Focus%20%7C%20Purple%20Team%20Mindset&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Kumari Amita Kishore - Blue Team Focus, Purple Team Mindset" />
 
-<h3>Cybersecurity Graduate Student @ WGU</h3>
+<h2>Cybersecurity Graduate Student @ WGU</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1300&color=C4A5FF&center=true&vCenter=true&width=1100&lines=GIAC+Certified+%E2%80%94+GCIH+%E2%9F%A1+GSEC+%E2%9F%A1+GFACT;CompTIA+Certified+%E2%80%94+PenTest%2B+%E2%9F%A1+CySA%2B;SANS+%C3%97+WiCyS+Scholar+%282025%E2%80%932026%29;Learning+Attacker+Techniques+%E2%9F%A1+Building+Better+Defenses;SOC+Home+Lab+%E2%9F%A1+Log+Analysis+%E2%9F%A1+Security+Investigations;Learning+Python+%E2%9F%A1+Exploring+Security+Automation;Exploring+Cloud+Security+%E2%9F%A1+AWS+%26+Azure;Curious+Mind+%E2%9F%A1+Consistent+Effort+%E2%9F%A1+Continuous+Learning" alt="Animated cybersecurity certifications, training and learning interests" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1300&color=C4A5FF&center=true&vCenter=true&width=1100&lines=GIAC+Certified+%E2%80%94+GCIH+%E2%9F%A1+GSEC+%E2%9F%A1+GFACT;CompTIA+Certified+%E2%80%94+PenTest%2B+%E2%9F%A1+CySA%2B;SANS+%C3%97+WiCyS+Scholar+%282025%E2%80%932026%29;Learning+Attacker+Techniques+%E2%9F%A1+Building+Better+Defenses;SOC+Home+Lab+%E2%9F%A1+Log+Analysis+%E2%9F%A1+Security+Investigations;Learning+Python+%E2%9F%A1+Exploring+Security+Automation;Exploring+Cloud+Security+%E2%9F%A1+AWS+%26+Azure;Curious+Mind+%E2%9F%A1+Consistent+Effort+%E2%9F%A1+Continuous+Learning" alt="Animated cybersecurity certifications, training and learning interests" />
 
 </div>
 
