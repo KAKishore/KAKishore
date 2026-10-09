@@ -202,6 +202,7 @@ Always happy to connect with fellow cybersecurity learners, professionals, and m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-amita-kishore/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishore.kamita@gmail.com)
+![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO-CYBERSECURITY%20INTERNSHIPS%20%26%20ENTRY--LEVEL%20ROLES-168B60?style=for-the-badge&labelColor=334155)
 
 
 *🌱 Keep learning. Stay curious. Grow together.*
