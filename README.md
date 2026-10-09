@@ -186,5 +186,9 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 ☁️ Azure & Cloud Security · 🛡️ SOC Detection Engineering · 🐍 Python for Security Automation · 🔎 Threat Hunting
 
 
+## 🤝 Community Involvement
+
+![WiCyS](https://img.shields.io/badge/WiCyS-Community%20Member-E754A6?style=for-the-badge)
+![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board%20Member-6F42C1?style=for-the-badge)
 
 
