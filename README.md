@@ -138,7 +138,7 @@ flowchart LR
         S --> U
     end
 
-    subgraph SOC["🖥️ WINDOWS HOST<br/>🛡️ SOC MONITORING"]
+    subgraph SOC["🛡️ SOC MONITORING ENVIRONMENT"]
         direction TB
         Z("Wazuh<br/>Endpoint Monitoring")
         SI("📊 Splunk SIEM<br/>Log Analysis")
