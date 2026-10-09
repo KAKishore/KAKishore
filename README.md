@@ -17,7 +17,7 @@
 Hi, I'm Kumari Amita Kishore, a cybersecurity graduate student at Western Governors University (WGU), passionate about threat detection, security investigations, and incident response, with a strong interest in strengthening defensive security through hands-on learning and practical problem-solving.
 
 - 🎓 **Advanced Cybersecurity Training:** SANS × WiCyS Scholar (2025–2026), with intensive hands-on training in attack simulations, threat analysis, incident handling, and practical security labs.
-- 🏦 **Background:** Former banking professional bringing analytical thinking, problem-solving, and attention to detail into cybersecurity.
+- 🏦 **Background:** Former banking professional bringing analytical thinking and attention to detail to cybersecurity.
 - 🎯 **Career Focus:** Security Operations • Threat Detection • Incident Response • Threat Hunting
 - 🛡️ **Hands-On Practice:** Exploring SOC operations through home labs, log analysis, and security investigations.
 - ☁️ **Cloud Security:** Exploring AWS & Azure through hands-on cloud security and IAM labs.
