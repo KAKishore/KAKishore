@@ -203,7 +203,12 @@ Always happy to connect with fellow cybersecurity learners, professionals, and m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-amita-kishore/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishore.kamita@gmail.com)
 
-![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO-CYBERSECURITY%20INTERNSHIPS%20%26%20ENTRY--LEVEL%20ROLES-168B60?style=for-the-badge&labelColor=334155)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=OPEN+TO+%7C+CYBERSECURITY+INTERNSHIPS;OPEN+TO+%7C+ENTRY-LEVEL+SOC+ANALYST+ROLES;OPEN+TO+%7C+JUNIOR+SECURITY+ANALYST+ROLES;OPEN+TO+%7C+INCIDENT+RESPONSE+OPPORTUNITIES;OPEN+TO+%7C+CLOUD+SECURITY+INTERNSHIPS;OPEN+TO+%7C+CYBERSECURITY+VOLUNTEERING" alt="Open to cybersecurity internships, entry-level roles, and volunteering" />
+
+</div>
 
 
 *🌱 Keep learning. Stay curious. Grow together.*
