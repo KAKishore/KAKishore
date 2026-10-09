@@ -178,3 +178,11 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 |:---:|:---:|:---:|:---:|
 | ⚡ SkillBit | 🏁 National Cyber League (NCL) | 🛡️ SentinelOne | 🚀 More Challenges Ahead |
 
+
+## 📚 Currently Exploring
+
+☁️ Azure & Cloud Security · 🛡️ SOC Detection Engineering · 🐍 Python for Security Automation · 🔎 Threat Hunting
+
+
+
+
