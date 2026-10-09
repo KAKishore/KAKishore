@@ -127,9 +127,42 @@ Performing hands-on attack simulations in a virtual SOC environment to explore s
 
 ```mermaid
 flowchart TD
-    A["Kali Linux"] --> B["pfSense Firewall"]
-    B --> C["Windows VM"]
-    C --> D["Splunk SIEM"]
+    K["⚔️ Kali Linux VM - Attacker"]
+    P["🌐 pfSense - Firewall"]
+
+    subgraph WIN["💻 WINDOWS TARGET VM"]
+        direction TB
+        S["Sysmon - Event Telemetry"]
+        U["Splunk Universal Forwarder"]
+        S --> U
+    end
+
+    subgraph SOC["🛡️ SOC MONITORING"]
+        direction LR
+        SI["📊 Splunk SIEM Server"]
+        Z["Wazuh - Endpoint Monitoring"]
+    end
+
+    I["🔎 Threat Detection & Investigation"]
+
+    K -->|"Simulated attack traffic"| P
+    P --> S
+    U -->|"Forward Windows and Sysmon logs"| SI
+    S -.->|"Endpoint monitoring"| Z
+    SI --> I
+    Z --> I
+
+    classDef attacker fill:#FCE7E7,stroke:#C75B5B,color:#812626
+    classDef network fill:#FFF1D9,stroke:#C58A2E,color:#805214
+    classDef endpoint fill:#E4EFFC,stroke:#477FC0,color:#244B7B
+    classDef monitoring fill:#EEE5FA,stroke:#8961BC,color:#553482
+    classDef investigation fill:#DFF5E9,stroke:#39956E,color:#205F46
+
+    class K attacker
+    class P network
+    class S,U endpoint
+    class SI,Z monitoring
+    class I investigation
 ```
 
 
