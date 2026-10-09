@@ -188,7 +188,11 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 
 ## 🤝 Community Involvement
 
-![WiCyS](https://img.shields.io/badge/WiCyS-Community%20Member-E754A6?style=for-the-badge)
-![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board%20Member-6F42C1?style=for-the-badge)
+
+## 🤝 Community Involvement
+
+![WiCyS](https://img.shields.io/badge/WiCyS-Community%20Member-E754A6?style=for-the-badge&labelColor=E754A6)
+![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board%20Member-6F42C1?style=for-the-badge&labelColor=6F42C1)
+
 
 
