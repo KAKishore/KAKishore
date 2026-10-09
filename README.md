@@ -209,4 +209,10 @@ Always happy to connect with fellow cybersecurity learners, professionals, and m
 </div>
 
 
+<div align="center">
+
+![Purple Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:9333EA&height=120&section=footer)
+
+</div>
+
 
