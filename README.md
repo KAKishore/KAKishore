@@ -191,7 +191,7 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 
 ![WiCyS Member](https://img.shields.io/badge/WiCyS%20Member-008F70?style=for-the-badge)
 ![GIAC Advisory Board Member](https://img.shields.io/badge/GIAC%20Advisory%20Board%20Member-D4A000?style=for-the-badge)
-![WGU Community](https://img.shields.io/badge/WGU%20COMMUNITY-2196F3?style=for-the-badge)
+![WGU Community](https://img.shields.io/badge/WGU%20COMMUNITY-3274A1?style=for-the-badge)
 
 
 
