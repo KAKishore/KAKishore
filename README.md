@@ -40,15 +40,15 @@ Hi, I'm Kumari Amita Kishore, a cybersecurity graduate student at Western Govern
 | ISC2 | Certified in Cybersecurity (CC) |
 | AWS | AWS Certified AI Practitioner (AIF-C01) |
 
-### 🎯 Planned Certifications
 
-| Issuer | Certification |
-|:---|:---|
-| Microsoft | SC-900 — Security, Compliance, and Identity Fundamentals |
-| Microsoft | SC-200 — Security Operations Analyst |
-| Microsoft | SC-300 — Identity and Access Administrator |
-| AWS | AWS Certified Cloud Practitioner (CLF-C02) |
-| CompTIA | CompTIA SecAI+ |
+### 🎯 Certification Roadmap
+
+| **Status** | **Issuer** | **Certification** |
+| ---------- | ---------- | ----------------- |
+| Currently Learning | Splunk | Splunk Certified Cybersecurity Defense Analyst |
+| Planned | Microsoft | SC-200 — Security Operations Analyst |
+| Planned | Microsoft | SC-300 — Identity and Access Administrator |
+| Exploring | CompTIA | CompTIA SecAI+ |
 
 ---
 
@@ -116,14 +116,17 @@ Hi, I'm Kumari Amita Kishore, a cybersecurity graduate student at Western Govern
 ## 🔬 Hands-On Projects
 
 ### 📂 Cybersecurity Lab Documentation
+
 Documenting hands-on labs, security investigations, and practical exercises across defensive security, network analysis, penetration testing, cloud security, and incident response.
 
 Sharing technical approaches, tools, investigation findings, and lessons learned through GitHub repositories.
 
+
 ### 🛡️ SOC Home Lab Architecture
 
-Performing hands-on attack simulations in a virtual SOC environment to explore security monitoring, log collection, threat detection, and incident investigation.
+My SOC home lab is designed to simulate a security operations environment, integrating endpoint monitoring, network security, and SIEM technologies to practice threat detection, log analysis, and incident response.
 
+Through ongoing lab development, tool integration, and hands-on investigations, I analyze security events, correlate alerts, and document findings to strengthen my SOC analysis and incident investigation skills.
 
 
 ```mermaid
