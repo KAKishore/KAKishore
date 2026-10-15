@@ -115,18 +115,18 @@ Hi, I'm Kumari Amita Kishore, a cybersecurity graduate student at Western Govern
 
 ## 🔬 Hands-On Projects
 
-### 📂 Cybersecurity Lab Documentation
+### 📂 Cybersecurity Projects & Investigations
 
-Documenting hands-on labs, security investigations, and practical exercises across defensive security, network analysis, penetration testing, cloud security, and incident response.
+Working on hands-on cybersecurity projects and security investigations across defensive security, network analysis, penetration testing, cloud security, and incident response.
 
-Sharing technical approaches, tools, investigation findings, and lessons learned through GitHub repositories.
+Documenting technical methodologies, tools, investigation findings, and key takeaways through GitHub repositories.
 
 
-### 🛡️ SOC Home Lab Architecture
+### 🛡️ SOC Infrastructure & Operations
 
-My SOC home lab is designed to simulate a security operations environment, integrating endpoint monitoring, network security, and SIEM technologies to practice threat detection, log analysis, and incident response.
+I develop and maintain a SOC environment that brings together SIEM platforms, endpoint telemetry, network security controls, and monitoring technologies.
 
-Through ongoing lab development, tool integration, and hands-on investigations, I analyze security events, correlate alerts, and document findings to strengthen my SOC analysis and incident investigation skills.
+My focus is on understanding the end-to-end security event lifecycle, from event generation and log collection to detection, alert triage, and incident response. I continuously expand the environment to strengthen my ability to investigate security activity across interconnected systems.
 
 
 ```mermaid
