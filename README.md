@@ -133,12 +133,26 @@ My focus is on understanding the end-to-end security event lifecycle, from event
 flowchart LR
     K("⚔️ Kali Linux<br/>Attacker")
     P("🌐 pfSense<br/>Firewall")
+    N("Suricata IDS<br/>Network Monitoring")
+
+    subgraph NET["NETWORK SECURITY"]
+        direction TB
+        P
+        N
+    end
 
     subgraph WIN["💻 WINDOWS TARGET VM"]
         direction TB
         S("Sysmon<br/>Event Telemetry")
         U("Splunk Universal Forwarder")
+        WA("Wazuh Agent")
         S --> U
+        S --> WA
+    end
+
+    subgraph UB["🐧 UBUNTU SERVER VM"]
+        direction TB
+        WM("Wazuh Manager<br/>Dashboard & Indexer")
     end
 
     subgraph SOC["🛡️ SOC MONITORING"]
@@ -151,8 +165,11 @@ flowchart LR
 
     K --> P
     P --> S
+    P -.-> N
+    N -.-> Z
     U --> SI
-    S -.-> Z
+    WA --> WM
+    WM --> Z
     SI --> I
     Z --> I
 
@@ -163,12 +180,14 @@ flowchart LR
     classDef investigation fill:#101B19,stroke:#3CA783,color:#FFFFFF,stroke-width:1px
 
     class K attacker
-    class P firewall
-    class S,U endpoint
-    class SI,Z monitoring
+    class P,N firewall
+    class S,U,WA endpoint
+    class WM,Z,SI monitoring
     class I investigation
 
+    style NET fill:#292929,stroke:#444444,color:#FFFFFF
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
+    style UB fill:#292929,stroke:#444444,color:#FFFFFF
     style SOC fill:#292929,stroke:#444444,color:#FFFFFF
 ```
 
