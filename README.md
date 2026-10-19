@@ -129,30 +129,18 @@ I develop and maintain a SOC environment that brings together SIEM platforms, en
 My focus is on understanding the end-to-end security event lifecycle, from event generation and log collection to detection, alert triage, and incident response. I continuously expand the environment to strengthen my ability to investigate security activity across interconnected systems.
 
 
+
 ```mermaid
 flowchart LR
     K("⚔️ Kali Linux<br/>Attacker")
     P("🌐 pfSense<br/>Firewall")
-    N("Suricata IDS<br/>Network Monitoring")
-
-    subgraph NET["NETWORK SECURITY"]
-        direction TB
-        P
-        N
-    end
+    N("🛡️ Suricata IDS<br/>Network Traffic Monitoring<br/>Intrusion Detection")
 
     subgraph WIN["💻 WINDOWS TARGET VM"]
         direction TB
         S("Sysmon<br/>Event Telemetry")
         U("Splunk Universal Forwarder")
-        WA("Wazuh Agent")
         S --> U
-        S --> WA
-    end
-
-    subgraph UB["🐧 UBUNTU SERVER VM"]
-        direction TB
-        WM("Wazuh Manager<br/>Dashboard & Indexer")
     end
 
     subgraph SOC["🛡️ SOC MONITORING"]
@@ -165,11 +153,9 @@ flowchart LR
 
     K --> P
     P --> S
-    P -.-> N
-    N -.-> Z
+    P --- N
     U --> SI
-    WA --> WM
-    WM --> Z
+    S -.-> Z
     SI --> I
     Z --> I
 
@@ -181,15 +167,14 @@ flowchart LR
 
     class K attacker
     class P,N firewall
-    class S,U,WA endpoint
-    class WM,Z,SI monitoring
+    class S,U endpoint
+    class SI,Z monitoring
     class I investigation
 
-    style NET fill:#292929,stroke:#444444,color:#FFFFFF
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
-    style UB fill:#292929,stroke:#444444,color:#FFFFFF
     style SOC fill:#292929,stroke:#444444,color:#FFFFFF
 ```
+
 
 
 
