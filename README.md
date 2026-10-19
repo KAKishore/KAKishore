@@ -130,11 +130,10 @@ My focus is on understanding the end-to-end security event lifecycle, from event
 
 
 
-
 ```mermaid
 flowchart LR
     K("⚔️ Kali Linux<br/>Attacker")
-    P("🌐 pfSense Firewall<br/>Suricata IDS<br/>Network Traffic Monitoring")
+    P("🌐 pfSense Firewall<br/>+<br/>Suricata IDS")
 
     subgraph WIN["💻 WINDOWS TARGET VM"]
         direction TB
@@ -147,7 +146,7 @@ flowchart LR
 
     subgraph SOC["🛡️ SOC MONITORING"]
         direction TB
-        Z("🐧 Ubuntu Server<br/>Wazuh Manager<br/>Indexer & Dashboard")
+        Z("🐧 Ubuntu Server VM<br/>Wazuh SIEM")
         SI("📊 Splunk SIEM<br/>Log Analysis")
     end
 
@@ -175,7 +174,6 @@ flowchart LR
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
     style SOC fill:#292929,stroke:#444444,color:#FFFFFF
 ```
-
 
 
 
