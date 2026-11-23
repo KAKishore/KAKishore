@@ -148,6 +148,7 @@ flowchart LR
         direction TB
         Z("🐧 Ubuntu Server VM<br/>Wazuh SIEM")
         SI("📊 Splunk SIEM<br/>Log Analysis")
+        SOAR("⚙️ Splunk SOAR<br/>Alert Triage / Automation")
     end
 
     I("🔎 Threat Detection<br/>& Investigation")
