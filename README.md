@@ -113,20 +113,33 @@ Hi, I'm Kumari Amita Kishore, a cybersecurity graduate student at Western Govern
 
 ---
 
+
 ## 🔬 Hands-On Projects
 
-### 📂 Cybersecurity Projects & Investigations
+<details>
+<summary>📂 <b>Cybersecurity Projects & Investigations</b></summary>
+<br>
 
-Working on hands-on cybersecurity projects and security investigations across defensive security, network analysis, penetration testing, cloud security, and incident response.
+Hands-on projects across defensive security, network analysis, penetration testing, cloud security, and incident response.
 
-Documenting technical methodologies, tools, investigation findings, and key takeaways through GitHub repositories.
+Documenting technical methodologies, tools, investigation findings, and key takeaways.
 
+</details>
 
-### 🛡️ SOC Infrastructure & Operations
+<br>
 
-Design, development, and maintenance of a hands-on SOC lab integrating SIEM platforms, endpoint telemetry, network security controls, and security automation using Wazuh, Splunk, Sysmon, Suricata, and Splunk SOAR.
+<details>
+<summary>🛡️ <b>SOC Infrastructure & Operations</b></summary>
+<br>
 
-Focus on the end-to-end security event lifecycle, from log generation and collection to threat detection, alert triage, investigation, and incident response. Practical experience through attack simulations, log analysis, and automation playbooks to strengthen SOC operations, threat detection, and incident handling skills.
+Hands-on SOC lab integrating SIEM platforms, endpoint telemetry, network security controls, and security automation using Wazuh, Splunk, Sysmon, Suricata, and Splunk SOAR.
+
+**Focus:** Log Collection → Threat Detection → Alert Triage → Investigation → Incident Response
+
+**Hands-on:** Attack Simulations · Log Analysis · Automation Playbooks
+
+</details>
+
 
 
 
