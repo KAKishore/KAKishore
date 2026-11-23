@@ -198,7 +198,7 @@ Strengthening cybersecurity skills through CTFs, hands-on challenges, and practi
 
 | 🛡️ SANS Core NetWars | 🔐 WiCyS × SANS STS | 🔥 WiCyS × FLARE · Tenable · Bloomberg & More |
 |:---:|:---:|:---:|
-| 🏁 National Cyber League (NCL) | &#127482;&#127480; U.S. Cyber Challenge (USCC) | 🚀 More Challenges Ahead |
+| 🏁 National Cyber League (NCL) | 🏆 U.S. Cyber Challenge (USCC) | 🚀 More Challenges Ahead |
 
 
 
