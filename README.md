@@ -124,9 +124,9 @@ Documenting technical methodologies, tools, investigation findings, and key take
 
 ### 🛡️ SOC Infrastructure & Operations
 
-I develop and maintain a SOC environment that brings together SIEM platforms, endpoint telemetry, network security controls, and monitoring technologies.
+Design, development, and maintenance of a hands-on SOC lab integrating SIEM platforms, endpoint telemetry, network security controls, and security automation using Wazuh, Splunk, Sysmon, Suricata, and Splunk SOAR.
 
-My focus is on understanding the end-to-end security event lifecycle, from event generation and log collection to detection, alert triage, and incident response. I continuously expand the environment to strengthen my ability to investigate security activity across interconnected systems.
+Focus on the end-to-end security event lifecycle, from log generation and collection to threat detection, alert triage, investigation, and incident response. Practical experience through attack simulations, log analysis, and automation playbooks to strengthen SOC operations, threat detection, and incident handling skills.
 
 
 
