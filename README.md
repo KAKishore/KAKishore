@@ -157,8 +157,9 @@ flowchart LR
     P --> S
     U --> SI
     WA --> Z
-    SI --> I
-    Z --> I
+    SI --> SOAR
+    Z --> SOAR
+    SOAR --> I
 
     classDef attacker fill:#18181B,stroke:#C65B65,color:#FFFFFF,stroke-width:1px
     classDef firewall fill:#111820,stroke:#D59A32,color:#FFFFFF,stroke-width:1px
@@ -169,7 +170,7 @@ flowchart LR
     class K attacker
     class P firewall
     class S,U,WA endpoint
-    class SI,Z monitoring
+    class SI,Z,SOAR monitoring
     class I investigation
 
     style WIN fill:#292929,stroke:#444444,color:#FFFFFF
