@@ -197,7 +197,7 @@ flowchart LR
 Strengthening cybersecurity skills through CTFs, hands-on challenges, and practical problem-solving.
 
 | 🛡️ SANS Core NetWars | 🔐 WiCyS × SANS STS | 🔥 WiCyS × FLARE · Tenable · Bloomberg & More |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | 🏁 National Cyber League (NCL) | 🇺🇸 U.S. Cyber Challenge (USCC) | 🚀 More Challenges Ahead |
 
 
